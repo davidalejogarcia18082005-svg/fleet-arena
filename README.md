@@ -2,6 +2,15 @@
 
 **Jugar en línea:** [Abrir Fleet Arena](https://fleet-arena-ten.vercel.app/)
 
+**Usuarios de prueba**
+
+| Usuario | Correo | Contraseña |
+| --- | --- | --- |
+| Ana Norte | `ana.fleet@ejemplo.test` | `cGaYZiCDg0JoAZL0aL-Bzbtc` |
+| Luis Sur | `luis.fleet@ejemplo.test` | `KIb437-YdmOKiQePnNvqzngi` |
+
+Son cuentas ficticias compartidas para probar el juego. Entra desde **Iniciar sesión**. Para jugar con ambas a la vez, usa una ventana normal y otra privada, o dos dispositivos distintos.
+
 Batalla naval para dos jugadores, con cuentas de Supabase Auth, salas de invitación, datos persistentes en PostgreSQL y cambios enviados mediante Supabase Realtime. La organización de salas y los dos formatos se inspiran en la experiencia de Pokémon Showdown; el juego, interfaz y recursos gráficos son propios.
 
 ## Estado de esta entrega
